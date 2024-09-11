@@ -34,11 +34,13 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/transcript-editor.git
    cd transcript-editor
 2. **Install the dependencies:**
+    ```bash
      npm install
-3. **Run the development server:**
+4. **Run the development server:**
+    ```bash
      npm start
      npm run dev
 ## Usage
--**Play**: Click the "Play" button to start the playback. Words will be highlighted based on their start time and duration.
--**Stop**: Click the "Stop" button to stop the playback.
--**Edit Words**: Double-click any word to enter edit mode. Modify the text and click outside the input field to save changes.
+- **Play**: Click the "Play" button to start the playback. Words will be highlighted based on their start time and duration.
+- **Stop**: Click the "Stop" button to stop the playback.
+- **Edit Words**: Double-click any word to enter edit mode. Modify the text and click outside the input field to save changes.
